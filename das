@@ -1,0 +1,29 @@
+[33mcommit 30590078a8b5c1903fed57ede04ff8057afa4633[m[33m ([m[1;36mHEAD -> [m[1;32medit-s2[m[33m)[m
+Author: RobertMili <robertmilicevic3869@gmail.com>
+Date:   Fri Jan 13 15:02:23 2023 +0100
+
+    s2
+
+[33mcommit 3a7896e26c05d83dc985cf0873be38acd8797594[m
+Author: RobertMili <robertmilicevic3869@gmail.com>
+Date:   Fri Jan 13 14:53:22 2023 +0100
+
+    s2
+
+[33mcommit e412263e1dc7e2cd12f107a2ea2cac09338c0900[m
+Author: RobertMili <robertmilicevic3869@gmail.com>
+Date:   Fri Jan 13 14:46:23 2023 +0100
+
+    s2
+
+[33mcommit 424414108099875957386787dfa8c472e11366e4[m
+Author: RobertMili <robertmilicevic3869@gmail.com>
+Date:   Fri Jan 13 14:45:46 2023 +0100
+
+    update s2
+
+[33mcommit 8d49c49ad8ec1b678b817ccde6415c206322a620[m[33m ([m[1;32mmaster[m[33m)[m
+Author: RobertMili <robertmilicevic3869@gmail.com>
+Date:   Fri Jan 13 14:20:25 2023 +0100
+
+    add
